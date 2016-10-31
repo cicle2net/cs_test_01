@@ -49,7 +49,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(92, 12);
             this.label1.TabIndex = 1;
-            this.label1.Text = "変更後ラベル(PR)";
+            this.label1.Text = "変更後ラベル(PR★)";
             // 
             // UserControl2
             // 
